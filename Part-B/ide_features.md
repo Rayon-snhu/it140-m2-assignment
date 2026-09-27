@@ -1,35 +1,18 @@
 # Assignment 2-3 Part B – IDE Features Reflection
 
+
 ## Introduction
 
-> Write a short reflection on your experience using the course IDE to complete your first programming assignment. Briefly describe what it was like to write, run, and test code in an IDE for the first time. Introduce the three IDE features you selected and briefly explain why learning to use IDE features can help you as a beginning programmer. Save specific examples for the feature sections below. Delete these instructions when done.
+I really like using the platform because it provides helpful hints while I am working. I also like the overall environment because it feels clean and easy to follow. Most importantly, I feel like I am making progress while using it. Instead of only answering questions, I feel like I am actually getting somewhere with programming and becoming more comfortable with the process.
 
-TODO: Replace with your introduction here.
+## Feature 1 – Syntax Highlighting
 
-## Feature 1 – TODO: Replace with name of your Feature1
+One feature I really like is the color coding, or syntax highlighting. First, I think it makes the code look cool and more organized. I also make mistakes while I am learning, and the different colors make it easier for me to see parts of my code and correct mistakes. The color coding separates different parts of the code, such as integers, input statements, strings, and other elements. This makes it easier for me to understand what I am looking at and how the different sections of my code work together.
 
-> In one paragraph, identify the first feature you selected, explain what it does, and describe how it helped you while developing or testing your program. Include specific details about how it improved your workflow, made coding easier, or helped you find and fix errors more efficiently. Delete these instructions when done.
+## Feature 2 – Unit Testing
 
-TODO: Replace with your Feature 1 paragraph here.
+The testing feature is really useful because it allows me to test my code and see if it is working correctly. If something does not work, I can go back, fix my code, and test it again or try a different approach. The testing also provides information about possible errors or mistakes, which helps me understand what I may have done wrong. I like being able to make changes and test my work again until I get the correct result.
 
-## Feature 2 – TODO: Replace with name of your Feature2
+## Feature 3 – Hints and Feedback
 
-> Write one paragraph explaining your second feature. Describe how it functions, what benefits it provided while coding, and why it might be valuable for beginning programmers. Connect the feature to your personal experience using it in this project. Delete these instructions when done.
-
-TODO: Replace with your Feature 2 paragraph here.
-
-## Feature 3 – TODO: Replace with name of your Feature3
-
-> In a single paragraph, identify and explain a third IDE feature. Discuss how it enhanced your programming experience or supported best practices such as readability, debugging, or organization. Give a brief, real example of how you used it. Delete these instructions when done.
-
-TODO: Replace with your Feature 3 paragraph here.
-
-## Conclusion
-
-> Summarize what you learned from using your IDE in this assignment. Reflect on how these features will support your future programming work and improve your confidence as a new programmer. Delete these instructions when done.
-
-TODO: Replace with your conclusion here.
-
-## References
-
-TODO: Replace with your source citations here in APA style, if any. Delete section heading and this text if not used.
+The hints and feedback were really useful because I am a person who learns by doing something repetitively. Typing is not one of my strongest areas, and sometimes when I try to type too fast, I make mistakes. I have realized that many of my coding errors actually come from typing mistakes rather than not understanding what I am trying to do. The hints and feedback help me notice those mistakes much quicker, correct them, and learn from them as I continue practicing.
